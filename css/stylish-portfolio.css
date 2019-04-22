@@ -37,6 +37,10 @@ color: #045EA1;
     font-weight: 700;
 }
 
+i {
+    cursor: pointer;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -44,6 +48,7 @@ color: #045EA1;
     color: #fff;
     border: 2px solid white;
     background: transparent;
+    cursor: pointer;
 }
 
 .btn-dark:hover,
@@ -58,6 +63,7 @@ color: #045EA1;
     color: #333;
     border: 2px solid white;
     background: transparent;
+    cursor: pointer;
 }
 
 .btn-light:hover,
