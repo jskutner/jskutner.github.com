@@ -42,7 +42,8 @@ color: #045EA1;
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    border: 2px solid;
+    background: transparent;
 }
 
 .btn-dark:hover,
@@ -55,7 +56,8 @@ color: #045EA1;
 .btn-light {
     border-radius: 0;
     color: #333;
-    background-color: rgb(255,255,255);
+    border: 2px solid;
+    background: transparent;
 }
 
 .btn-light:hover,
