@@ -172,6 +172,12 @@ hr.small {
     text-shadow: 1px 1px 1px #000;
 }
 
+.hero-text-bg {
+    background: rgba(50,50,50,0.3);
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
 
 /* About */
 
